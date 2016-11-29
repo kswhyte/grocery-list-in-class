@@ -1,3 +1,9 @@
+# Unit Testing React Components
+
+For this tutorial, I built a app that allows you to make and edit a grocery list. In it, you can add groceries to a list, mark them starred or purchased, and filter based on starred or purchased tags.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
